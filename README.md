@@ -2,6 +2,7 @@
 # ⭐⭐⭐⭐⭐ Weather Monitoring Station
 ## When using this resource, please cite the original publication:
 - V. Asanza, R. E. Pico, D. Torres, S. Santillan and J. Cadena, "FPGA Based Meteorological Monitoring Station," 2021 IEEE Sensors Applications Symposium (SAS), 2021, pp. 1-6, doi: 10.1109/SAS51076.2021.9530151.
+## Read full paper:
 - https://ieeexplore.ieee.org/abstract/document/9530151
 ## Read paper presentation:
 - https://vasanza.blogspot.com/2021/10/fpga-based-meteorological-monitoring.html
