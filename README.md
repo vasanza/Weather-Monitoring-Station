@@ -41,7 +41,7 @@ In this paper, we propose to implement a meteorological monitoring station using
 # Keynote
 ## Clone
 - git status
-- git clone https://github.com/vasanza/Matlab_Code.git
+- git clone https://github.com/vasanza/Weather-Monitoring-Station.git
 ## Switched to Branch
 - git branch
 - git checkout NameBranch
