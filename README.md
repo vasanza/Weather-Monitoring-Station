@@ -2,6 +2,7 @@
 
 [![View Weather Monitoring Station on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102804-weather-monitoring-station)
 # ⭐⭐⭐⭐⭐ Weather Monitoring Station
+In this paper, we propose to implement a meteorological monitoring station using embedded systems. This model is possible thanks to different sensors that enable us to measure several environmental parameters, such as i) relative humidity, ii) average ambient temperature, iii) soil humidity, iv) rain occurrence, and v) light intensity. The proposed system is based on a field-programmable gate array device (FPGA). The proposed design aims at ensuring high-resolution data acquisition and at predicting samples with precision and accuracy in real-time. To present the collected data, we develop also a web application with a simple and friendly user interface.
 
 ## When using this resource, please cite the original publication:
 - V. Asanza, R. E. Pico, D. Torres, S. Santillan and J. Cadena, "FPGA Based Meteorological Monitoring Station," 2021 IEEE Sensors Applications Symposium (SAS), 2021, pp. 1-6, doi: 10.1109/SAS51076.2021.9530151.
